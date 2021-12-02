@@ -3,5 +3,5 @@ reed tarot pull simulator to be plotted on atlas, in decisional tree view & netw
 
 Q: Can we map out collective unconscious?
 
-!(network)[./network.png]
+![network](./network.png)
 
